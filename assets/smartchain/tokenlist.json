@@ -6,9 +6,8 @@
     "minor": 0,
     "patch": 2
   },
-  "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/tokenlist/logo-gold.png",
+  "logoURI": "https://raw.githubusercontent.com/awest16/public-assets/master/tokenlist/logo-gold.png",
   "keywords": [
-            "omgswap",
             "bsc",
             "bep20",
             "default",
@@ -21,7 +20,7 @@
       "name": "Wrapped HT",
       "symbol": "WHT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/smartchain/0xF5d392bE0dDA304A47588ea4F4b1E8D911b89Df0/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/awest16/public-assets/master/assets/smartchain/0xF5d392bE0dDA304A47588ea4F4b1E8D911b89Df0/logo.png"
     },
     {
       "address": "0x04f535663110a392a6504839beed34e019fdb4e0",
@@ -29,7 +28,7 @@
       "name": "TetherUSD",
       "symbol": "USDT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/smartchain/0x04f535663110a392a6504839beed34e019fdb4e0/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/awest16/public-assets/master/assets/smartchain/0x04f535663110a392a6504839beed34e019fdb4e0/logo.png"
     }
   ]
 }
