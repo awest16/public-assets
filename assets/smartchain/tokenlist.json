@@ -27,7 +27,7 @@
       "chainId": 256,
       "name": "TetherUSD",
       "symbol": "USDT",
-      "decimals": 18,
+      "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/awest16/public-assets/master/assets/smartchain/0x04f535663110a392a6504839beed34e019fdb4e0/logo.png"
     }
   ]
