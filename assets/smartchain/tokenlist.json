@@ -23,12 +23,12 @@
       "logoURI": "https://raw.githubusercontent.com/awest16/public-assets/master/assets/smartchain/0xF5d392bE0dDA304A47588ea4F4b1E8D911b89Df0/logo.png"
     },
     {
-      "address": "0x04f535663110a392a6504839beed34e019fdb4e0",
+      "address": "0x04F535663110A392A6504839BEeD34E019FdB4E0",
       "chainId": 256,
       "name": "TetherUSD",
       "symbol": "USDT",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/awest16/public-assets/master/assets/smartchain/0x04f535663110a392a6504839beed34e019fdb4e0/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/awest16/public-assets/master/assets/smartchain/0x04F535663110A392A6504839BEeD34E019FdB4E0/logo.png"
     }
   ]
 }
